@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DZ19Selectable</string>
+    <string name="infoStr">Информация о приложении</string>
+    <string name="exit">Выход из приложения</string>
+</resources>
